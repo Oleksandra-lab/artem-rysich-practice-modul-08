@@ -1,9 +1,12 @@
 li {
-    boder: 2px solid black
-    width: 300px
-
+    border: 2px solid black;
+    width: 300px;
 }
 
 ul {
     list-style: none;
+}
+
+.complete{
+    background-color: green;
 }
